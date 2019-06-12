@@ -1,2 +1,2 @@
-r=input()
-print(len(r))
+s=input()
+print(len(s))
