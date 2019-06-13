@@ -1,11 +1,11 @@
-a=int(input())
-t=a
+n=int(input())
+a=n
 b=0
-while (a>0):
-  r=a%10
+while (n>0):
+  r=n%10
   b=b+(r**3)
-  a=a//10
-if b==t:
+  n=n//10
+if a==n:
   print("yes")
 else:
   print("no")  
