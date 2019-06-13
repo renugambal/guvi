@@ -5,7 +5,7 @@ while (n>0):
   r=n%10
   b=b+(r**3)
   n=n//10
-if a==n:
+if a==b:
   print("yes")
 else:
-  print("no")  
+  print("no") 
