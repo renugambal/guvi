@@ -1,2 +1,2 @@
-p=int(input())
-print(p*2)
+re=int(input())
+print(re*2)
