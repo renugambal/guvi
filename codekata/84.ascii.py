@@ -1,2 +1,2 @@
-f=input()
-print(ord(f))
+pq=input()
+print(ord(pq))
