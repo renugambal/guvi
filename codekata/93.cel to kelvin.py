@@ -1,2 +1,2 @@
-c=int(input())
-print(273+c)
+cel=int(input())
+print(273+cel)
