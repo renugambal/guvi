@@ -6,4 +6,4 @@ for i in so:
 if so==p:
     print("Yes")
 else:
-    print("no")
+    print("No")
