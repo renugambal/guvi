@@ -1,4 +1,4 @@
-e=input()
-for i in e:
+aa=input()
+for i in aa:
     if i.isdigit():
         print(int(i),end="")
