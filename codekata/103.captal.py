@@ -1,2 +1,2 @@
-cap=input()
-print(cap.title())
+ap=input()
+print(ap.title())
