@@ -1,2 +1,2 @@
-st=input()
-print(st[::-1])
+number=input()
+print(number[::-1])
